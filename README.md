@@ -10,15 +10,15 @@ The password can include special characters.
 
 ### The URL of the GitHub repository.
 
-[Shirley Thompson Portfolio on GitHub repository](https://github.com/shirleyama/Password-Generator)
+[Shirley Thompson's Password Generator on GitHub repository](https://github.com/shirleyama/Password-Generator)
 
 ### The URL of the functional, deployed application on GitHub Pages.
 
-[Shirley Thompson Portfolio](https://shirleyama.github.io/Password-Generator/)
+[Shirley Thompson's Password Generator](https://shirleyama.github.io/Password-Generator/)
 
 ## Installation
 
-To access the website click [Shirley Thompson Portfolio](https://shirleyama.github.io/Password-Generator/), the screenshot can be found below.
+To access the website click [Shirley Thompson's Password Generator](https://shirleyama.github.io/Password-Generator/), the screenshot can be found below.
 
 ## Usage
 
