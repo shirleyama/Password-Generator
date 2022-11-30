@@ -1,7 +1,7 @@
 Password Generator Instructions:
 Generate a password when the button is clicked
-Present a series of prompts for password criteria
-Length of password
+Present a series of prompts for password criteria - done
+Length of password - done
 At least 10 characters but no more than 64.
 Character types
 Lowercase
